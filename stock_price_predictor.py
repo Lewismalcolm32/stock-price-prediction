@@ -103,7 +103,7 @@ print(f'Next Day Predicition: {"Up" if next_day_predicition[0] == 1 else "Down"}
 
 
 
-
+#Testing
 
 
 
